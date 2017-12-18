@@ -34,6 +34,14 @@ npm run server
 
 Then open your browser at http://localhost:1234
 
+## Building for Production
+
+```
+npm run build
+```
+
+Should build a production ready verison of the site in the dist/ folder.
+
 ## Questions
 
-Contact [bk@loki.live](mailto:bk@loki.live)
+Submit Bug Request.
