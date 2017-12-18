@@ -1,0 +1,17 @@
+$loki-green: #07c881;
+$loki-black: #333333;
+$loki-grey: #eeeeee;
+
+* {
+    background-color: $loki-green;
+}
+
+h1 {
+    color: $loki-black;
+}
+
+div.image {
+    background-image: url('../img/logo.png');
+    height: 50px;
+    width: 50px;
+}

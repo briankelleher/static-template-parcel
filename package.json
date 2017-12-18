@@ -1,0 +1,15 @@
+{
+  "name": "static-template-parcel",
+  "version": "1.0.0",
+  "main": "parcel src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "server": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir=dist/ --public-url=./"
+  },
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.2.1",
+    "yarn": "^1.3.2"
+  }
+}
